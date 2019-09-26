@@ -6,10 +6,9 @@
 - cisco.com (pending internal approvals at CSCO)
 
 Logo obtained waiting upload to site
-
-- noc.org (in JL's upload queue)
-- tcpwave.com (in JL's upload queue)
-- ATIS (in JL's upload queue)
+- noc.org (in JL's upload queue) (JL comment: not found on OneDrive)
+- tcpwave.com (in JL's upload queue) (JL comment: 4MB high res won't work and low res one won't upload - need new file)
+- ATIS (in JL's upload queue) (JL comment: not found on OneDrive)
 
 Recently added 9-26-19:
 - cira.org 

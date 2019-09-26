@@ -9,10 +9,6 @@ Logo obtained waiting upload to site
 
 - noc.org (in JL's upload queue)
 - tcpwave.com (in JL's upload queue)
-- EFF (in JL's upload queue)
-- Microsoft (in JL's upload queue)
-
-- Spamhaus (in JL's upload queue)
 - ATIS (in JL's upload queue)
 
 Recently added 9-26-19:
@@ -20,4 +16,7 @@ Recently added 9-26-19:
 - aa.net.uk
 - a10networks.com 
 - COX 
-
+- EFF 
+- Microsoft
+- CleanBrowsing
+- Spamhaus 

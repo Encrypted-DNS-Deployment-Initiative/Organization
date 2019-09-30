@@ -4,6 +4,7 @@
 - lastpresslabel.com (in GD's queue, pending logo)
 - iwf.org.uk (in GD's queue, pending logo)
 - cisco.com (pending internal approvals at CSCO)
+- netforecast.com (in GD's queue, pending logo)
 
 Logo obtained waiting upload to site
 - noc.org (in JL's upload queue) (JL comment: not found on OneDrive)

@@ -7,7 +7,6 @@
 - netforecast.com (in GD's queue, pending logo)
 
 Logo obtained waiting upload to site
-- noc.org (in JL's upload queue) (JL comment: not found on OneDrive)
 - tcpwave.com (in JL's upload queue) (JL comment: 4MB high res won't work and low res one won't upload - need new file)
 - ATIS (in JL's upload queue) (JL comment: not found on OneDrive)
 

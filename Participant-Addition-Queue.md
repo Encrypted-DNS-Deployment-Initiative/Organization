@@ -5,6 +5,7 @@
 - iwf.org.uk (in GD's queue, pending logo)
 - cisco.com (pending internal approvals at CSCO)
 - netforecast.com (in GD's queue, pending logo)
+- nic.cz (in GD's queue, pending logo)
 
 Logo obtained waiting upload to site
 - tcpwave.com (in JL's upload queue) (JL comment: 4MB high res won't work and low res one won't upload - need new file)

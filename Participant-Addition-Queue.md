@@ -5,18 +5,10 @@
 - iwf.org.uk (in GD's queue, pending logo)
 - cisco.com (pending internal approvals at CSCO)
 - netforecast.com (in GD's queue, pending logo)
-- nic.cz (in GD's queue, pending logo)
 
 Logo obtained waiting upload to site
-- tcpwave.com (in JL's upload queue) (JL comment: 4MB high res won't work and low res one won't upload - need new file)
 - ATIS (in JL's upload queue) (JL comment: not found on OneDrive)
 
-Recently added 9-26-19:
-- cira.org 
-- aa.net.uk
-- a10networks.com 
-- COX 
-- EFF 
-- Microsoft
-- CleanBrowsing
-- Spamhaus 
+Recently added 10-4-19:
+- CZnic
+- TCPWave
